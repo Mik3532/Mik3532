@@ -1,9 +1,11 @@
 <h1 align="center">Ola, Eu sou Miquias Alves</h1>
 <h3 align="center">Programador Iniciante</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mik3532&label=Profile%20views&color=0e75b6&style=flat" alt="mik3532" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mik3532" alt="mik3532" /></a> </p>
+
+<p align="left"> <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTYyMDcyMDEsIm5iZiI6MTcxNjIwNjkwMSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTIwVDEyMDgyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI4YzRmZTdhMzRmZTYwMmMyZWIyYjAyMGViZmZlZGY5MDUyM2Q2NWViYTk5YjdhZmY5NDk2ZDYzYTg2YzU0YzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.wBEqJBkIdu6kEEcA8KwUhbP5270CYOiLzYumbeky8go" alt="mik3532" /> </p>
+
+- 🐀Todos os meus projetos estão disponíveis em **https://github.com/Mik3532?tab=repositories**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
