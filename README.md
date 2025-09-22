@@ -40,7 +40,7 @@
 ---
 
 <p align="center">
-  <a href="https://instagram.com/mik_doog" target="blank">
+  <a href="https://instagram.com/mik_psycore" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" height="30" width="40" />
   </a>
 </p>
